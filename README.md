@@ -1,8 +1,11 @@
 # Social Web server app
 
 
-# installation
-# (on a new Linux VPS as root user)
+# requirements
+
+Ubuntu Linux v22/v24 VPS as root user
+
+## installation commands
 
 curl -sSL https://socialweb.cloud/install.sh | bash -s mysite.example.com
 
