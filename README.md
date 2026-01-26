@@ -3,10 +3,10 @@
 
 # installation
 
-curl -sSL https://socialweb.cloud/install.sh | bash -s USERNAME.i-self.host
+curl -sSL https://socialweb.cloud/install.sh | bash -s mysite.example.com
 
 su - socialweb
 
-curl -sSL https://socialweb.cloud/install.sh | bash -s USERNAME.i-self.host
+curl -sSL https://socialweb.cloud/install.sh | bash -s mysite.example.com
 
 
